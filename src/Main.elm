@@ -49,8 +49,8 @@ whiteBackRow : List Square
 whiteBackRow = [ Filled White Rook
                , Filled White Knight
                , Filled White Bishop
-               , Filled White King
                , Filled White Queen
+               , Filled White King
                , Filled White Bishop
                , Filled White Knight
                , Filled White Rook]
